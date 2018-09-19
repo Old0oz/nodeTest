@@ -1,8 +1,7 @@
 # todo
 Gestion d'une todo-list client (jQuery)
 
-git clone https://github.com/dacodemaniak/nodetodo
-
+git clone https://github.com/Old0oz/nodeTest/
 Install dependencies :
 
 cd nodetodo
