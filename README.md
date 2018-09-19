@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # todo
 Gestion d'une todo-list client (jQuery)
 
@@ -29,6 +28,4 @@ Password : admin
 
 Then start server
 $nodetodo> npm start
-=======
 # nodeTest
->>>>>>> ad28b2808278e8dac3458745f891f11188382581
